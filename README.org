@@ -1,0 +1,10 @@
+* mnas-graph
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-graph.git   |
+| commit  | 27fe877  |
+| systems | mnas-graph |
+|---------+-------------------------------------------|
+
